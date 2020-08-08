@@ -9,8 +9,6 @@ import java.util.*;
  * This represents the data structure storing all the roads, nodes, and
  * segments, as well as some information on which nodes and segments should be
  * highlighted.
- * 
- * @author tony
  */
 public class Graph {
 	// map node IDs to Nodes.
