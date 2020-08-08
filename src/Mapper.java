@@ -11,8 +11,6 @@ import java.util.*;
  * This is the main class for the mapping program. It extends the GUI abstract
  * class and implements all the methods necessary, as well as having a main
  * function.
- * 
- * @author tony
  */
 public class Mapper extends GUI {
 	public static final Color NODE_COLOUR = new Color(77, 113, 255);
