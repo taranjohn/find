@@ -6,8 +6,6 @@ import java.awt.Point;
  * an edge between two Nodes. It knows the Road it belongs to as well as the
  * Nodes it joins, and contains a series of Locations that make up the length of
  * the Segment and can be used to render it.
- * 
- * @author tony
  */
 public class Segment {
 
