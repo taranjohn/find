@@ -5,8 +5,6 @@ import java.util.HashSet;
  * Road represents ... a road ... in our graph, which is some metadata and a
  * collection of Segments. We have lots of information about Roads, but don't
  * use much of it.
- * 
- * @author tony
  */
 public class Road {
 	public final int roadID;
