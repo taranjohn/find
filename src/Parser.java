@@ -13,8 +13,6 @@ import java.util.Set;
  * three files we're interested in, and returning the relevant data structure.
  * Internally it uses BufferedReaders instead of Scanners to read in the files,
  * as Scanners are pathetically slow.
- * 
- * @author tony
  */
 public class Parser {
 
